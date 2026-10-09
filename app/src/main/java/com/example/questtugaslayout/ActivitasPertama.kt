@@ -52,7 +52,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 alamat = stringResource(R.string.alamat_2),
                 containerColor = colorResource(R.color.card_2_bg),
                 logoRes = R.drawable.logo_umy,
-                noTelpColor = colorResource(R.color.text_cyan),
+                noTelpColor = colorResource(R.color.text_yellow),
                 alamatColor = colorResource(R.color.text_light_gray)
             )
             CustomCard(
@@ -61,7 +61,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 alamat = stringResource(R.string.alamat_3),
                 containerColor = colorResource(R.color.card_3_bg),
                 logoRes = R.drawable.logo_umy,
-                noTelpColor = colorResource(R.color.text_cyan),
+                noTelpColor = colorResource(R.color.text_yellow),
                 alamatColor = colorResource(R.color.text_light_gray)
             )
             CustomCard(
@@ -70,7 +70,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 alamat = stringResource(R.string.alamat_4),
                 containerColor = colorResource(R.color.card_4_bg),
                 logoRes = R.drawable.logo_umy,
-                noTelpColor = colorResource(R.color.text_cyan),
+                noTelpColor = colorResource(R.color.text_yellow),
                 alamatColor = colorResource(R.color.text_light_gray)
             )
         }
