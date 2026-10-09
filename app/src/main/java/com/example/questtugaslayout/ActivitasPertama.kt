@@ -43,6 +43,15 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 fontFamily = FontFamily.Cursive,
                 alamatColor = colorResource(R.color.text_light_gray)
             )
+            CustomCard(
+                nama = stringResource(R.string.nama_2),
+                noTelp = stringResource(R.string.no_telp_2),
+                alamat = stringResource(R.string.alamat_2),
+                containerColor = colorResource(R.color.card_2_bg),
+                logoRes = R.drawable.logo_umy,
+                noTelpColor = colorResource(R.color.text_cyan),
+                alamatColor = colorResource(R.color.text_light_gray)
+            )
         }
     }
 }
