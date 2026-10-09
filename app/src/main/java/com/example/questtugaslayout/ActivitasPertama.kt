@@ -61,6 +61,15 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 noTelpColor = colorResource(R.color.text_cyan),
                 alamatColor = colorResource(R.color.text_light_gray)
             )
+            CustomCard(
+                nama = stringResource(R.string.nama_4),
+                noTelp = stringResource(R.string.no_telp_4),
+                alamat = stringResource(R.string.alamat_4),
+                containerColor = colorResource(R.color.card_4_bg),
+                logoRes = R.drawable.logo_umy,
+                noTelpColor = colorResource(R.color.text_cyan),
+                alamatColor = colorResource(R.color.text_light_gray)
+            )
         }
     }
 }
