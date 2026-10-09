@@ -35,6 +35,14 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 fontWeight = FontWeight.Bold
             )
             Spacer(modifier = Modifier.height(20.dp))
+            CustomCard(
+                nama = stringResource(R.string.nama_1),
+                alamat = stringResource(R.string.alamat_1),
+                containerColor = colorResource(R.color.card_1_bg),
+                logoRes = R.drawable.logo_umy,
+                fontFamily = FontFamily.Cursive,
+                alamatColor = colorResource(R.color.text_light_gray)
+            )
         }
     }
 }
