@@ -3,4 +3,19 @@
     <string name="prodi">Teknologi Informasi</string>
     <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
     <string name="copy">Copyright, 2026</string>
+
+    <string name="nama_1">Lailansyahda Azalia</string>
+    <string name="alamat_1">Barat, Magetan</string>
+
+    <string name="nama_2">Muh Husen Nabil R</string>
+    <string name="no_telp_2">085436874190</string>
+    <string name="alamat_2">Batur, Banjarnegara</string>
+
+    <string name="nama_3">Masayu Eqfalarissa</string>
+    <string name="no_telp_3">085436874190</string>
+    <string name="alamat_3">Depok, Sleman</string>
+
+    <string name="nama_4">Ayuningtyas Dyah S</string>
+    <string name="no_telp_4">085436874190</string>
+    <string name="alamat_4">Gamping, Sleman</string>
 </resources>
